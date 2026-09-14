@@ -1,6 +1,6 @@
 # Pxmm CAM
 
-Aplicação desktop (Windows/macOS) para streaming de câmeras **USB** e **GigE/LAN**, medição por dois cliques e calibração px↔mm com exportação CSV/JSON.
+Aplicação desktop (Linux/macOS) para streaming de câmeras **USB** e **GigE/LAN**, medição por dois cliques e calibração px↔mm com exportação CSV/JSON.
 
 ## Clonar e executar
 
